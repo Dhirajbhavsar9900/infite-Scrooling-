@@ -1,0 +1,26 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+}
+.im{
+    display: flex;
+    justify-content: center;
+    
+}
+
+img{
+   border-radius: 20px;
+   margin: 20px;
+   width: 500px;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    width: 300px;
+}
